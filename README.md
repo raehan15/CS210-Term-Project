@@ -1,4 +1,4 @@
-#Spotify Project
+# Spotify Project
 
 Explore the intriguing world of personal music preferences and listening habits with my CS210 - Introduction to Data Science project. This endeavor delves into my musical world, analyzing my favorite artists, songs, preferred languages, and daily listening patterns. The central hypothesis of my investigation is a seemingly simple yet personal question: Do I indulge in music more during the relaxed aura of weekends compared to the bustling weekdays?
 
